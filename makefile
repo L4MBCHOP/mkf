@@ -3,4 +3,3 @@ ALL:
 
 CLEAN:
 	-@ DEL mkf.exe
-	

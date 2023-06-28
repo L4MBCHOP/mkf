@@ -40,5 +40,4 @@ Usage\n\
 \n\
 "; 
 
-
 #endif //__HELP_TEXT_H__

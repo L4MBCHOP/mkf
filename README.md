@@ -42,3 +42,4 @@ To Make a file with 1KB (1024 bytes) of random text data (Giberish):
 
 To fill up your hard drive with garbage (generally don't do this):
     `mkf -Rb10G  lotsofFiles.[a;b;c;d;e;f;g;h;i;j;k;l;m;n;o;p;q;r;s;t;u;v;w;x;y;z]`
+    
