@@ -26,7 +26,7 @@ To make multiple files:
 To make multiple files Having the same name but different extentions:
     `mkf fileName.[a;b;c;d;potato;tar.gz]`
 
-    results in the following empty files being created:
+    Results in the following empty files being created:
         filename.a
         filename.b
         filename.c
@@ -35,10 +35,10 @@ To make multiple files Having the same name but different extentions:
         filename.tar.gz
 
 To Make a file with 1KB (1024 bytes) of random binary data:
-    `mkf -Rb 1024 randomJunk.bin`
+    `mkf -Rb1024 randomJunk.bin`
 
 To Make a file with 1KB (1024 bytes) of random text data (Giberish):
-    `mkf -Rt 1K randomJunk.txt`
+    `mkf -Rt1K randomJunk.txt`
 
 To fill up your hard drive with garbage (generally don't do this):
-    `mkf -Rb 10G  lotsofFiles.[a;b;c;d;e;f;g;h;i;j;k;l;m;n;o;p;q;r;s;t;u;v;w;x;y;z]`
+    `mkf -Rb10G  lotsofFiles.[a;b;c;d;e;f;g;h;i;j;k;l;m;n;o;p;q;r;s;t;u;v;w;x;y;z]`
