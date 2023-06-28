@@ -1,0 +1,59 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "F:\\ProgramFiles\\msys64\\mingw64\\include\\gtk-4.0\\gtk",
+                "F:\\ProgramFiles\\msys64\\mingw64\\include\\boost\\predef\\os",
+                "F:\\ProgramFiles\\msys64\\mingw64\\include\\**",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\**",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\**",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\um",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt",
+                "F:\\Windows Kits\\10\\Include\\**",
+                "F:\\ProgramFiles\\MinGW\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "F:\\ProgramFiles\\MinGW\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x86"
+        },
+        {
+            "name": "WIN32_CUST",
+            "includePath": [
+                "${default}",
+                "F:\\ProgramFiles\\msys64\\mingw64\\include\\gtk-4.0\\gtk",
+                "F:\\ProgramFiles\\msys64\\mingw64\\include\\boost\\predef\\os",
+                "F:\\ProgramFiles\\msys64\\mingw64\\include\\**",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\**",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\**",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\um",
+                "F:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt",
+                "F:\\Windows Kits\\10\\Include\\**",
+                "F:\\ProgramFiles\\MinGW\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "F:\\ProgramFiles\\MinGW\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x86"
+        }
+    ],
+    "version": 4
+}
