@@ -38,7 +38,7 @@ Usage\n\
         e.g.\n\
             'myfile.[c;h]' will result in 2 files; 'myfile.c' and 'myfile.h'\n\
 \n\
-";
+"; 
 
 
 #endif //__HELP_TEXT_H__

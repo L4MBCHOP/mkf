@@ -11,9 +11,9 @@ if you answered yes to any of the above then mkf is for you.
 
 ## Current State of features
 
-- [ ] Ability to create Files
-- [ ] Creation w/ List of file extentions
-- [ ] Ability to generate random files w/ Arbitrary size
+- [x] Ability to create Files
+- [x] Creation w/ List of file extentions
+- [x] Ability to generate random files w/ Arbitrary size
 
 ## Usage Examples
 

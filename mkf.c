@@ -129,9 +129,9 @@ int MakeFiles(void* filename){
     HANDLE hfile = CreateFile((char*)filename, (GENERIC_READ | GENERIC_WRITE), 0, NULL, CREATE_NEW, FILE_ATTRIBUTE_NORMAL, NULL);
 
     if((hfile == INVALID_HANDLE_VALUE) && (settings.verbose)){
-        printf("File \"%s\" could not be made, it may already exist.\n", (char*)filename);
+        printf("File \"%260s\" could not be made, it may already exist.\n", (char*)filename);
     }else if(settings.verbose){
-        printf("Generating file \"%s\"\n", (char*)filename);
+        printf("Generating file \"%260s\"\n", (char*)filename);
     }
 
     DWORD written;
